@@ -67,7 +67,7 @@ setup(
     description="Trivial JSON fuzzer written in python",
     license="MIT",
     keywords="",
-    url="https://github.com/mseclab/PyJFuzz",
+    url="https://github.com/OkayMing/PyJFuzz",
     packages=["pyjfuzz",
               "pyjfuzz.core",
               "pyjfuzz.core.errors",
